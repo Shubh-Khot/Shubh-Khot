@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shubhya
 
-<!--
-**Shubhya1364/Shubhya1364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Cloud & DevOps Engineer | AI Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building scalable cloud infrastructure, automating workflows, and exploring the intersection of DevOps and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Do
+
+- ☁️ **Cloud Engineering**: Designing and deploying cloud infrastructure on AWS, Azure, and GCP
+- 🔧 **DevOps Practices**: CI/CD pipelines, Infrastructure as Code, and automation
+- 🤖 **AI/ML Integration**: Implementing AI solutions in cloud environments
+- 🌐 **Web Development**: Building responsive web applications with modern technologies
+
+### 🛠️ Tech Stack
+
+**Cloud & Infrastructure**
+```
+AWS | Azure | GCP | Docker | Kubernetes | Terraform | Ansible
+```
+
+**DevOps Tools**
+```
+Jenkins | GitHub Actions | GitLab CI | ArgoCD | Prometheus | Grafana
+```
+
+**Programming & Scripting**
+```
+Python | JavaScript | Bash | YAML | HTML/CSS
+```
+
+**Development**
+```
+Git | VS Code | Linux | MacOS
+```
+
+### 🌱 Currently Learning
+
+- Advanced Kubernetes orchestration
+- Cloud-native security practices
+- AI/ML model deployment and MLOps
+- Serverless architectures
+
+### 📫 Let's Connect
+
+- 💼 LinkedIn: [Connect with me](https://linkedin.com)
+- 📧 Email: Feel free to reach out!
+- 🌐 Portfolio: Check out my projects
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhya1364&show_icons=true&theme=radical)
+
+### 🎯 2025 Goals
+
+- [ ] Contribute to open-source DevOps projects
+- [ ] Earn advanced cloud certifications (AWS Solutions Architect, CKA)
+- [ ] Build and deploy AI-powered automation tools
+- [ ] Share knowledge through technical blogs and tutorials
+
+---
+
+⚡ *"Automating the future, one pipeline at a time!"* ⚡
