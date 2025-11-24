@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shubhya
+# Hi there! 👋 I'm Shubham
 
 ## 🚀 Cloud & DevOps Engineer | AI Enthusiast
 
